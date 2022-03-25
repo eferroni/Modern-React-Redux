@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "title 1",
+      "description": "desc 1",
+      "id": 1
+    },
+    {
+      "title": "title 2",
+      "description": "desc 2",
+      "id": 2
+    },
+    {
+      "title": "title 3",
+      "description": "desc 3",
+      "id": 3
+    },
+    {
+      "title": "title 4",
+      "description": "DESC 4",
+      "userId": "117343885401081570856",
+      "id": 4
+    },
+    {
+      "title": "title 5",
+      "description": "desc 5",
+      "userId": "117343885401081570856",
+      "id": 5
+    },
+    {
+      "title": "title 6",
+      "description": "desc 6",
+      "id": 6
+    }
+  ]
+}
